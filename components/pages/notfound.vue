@@ -1,4 +1,4 @@
 <template>
   
-  <img src="../../src/assets/pace/error.gif">
+  <img src="../../src/assets/error.gif">
 </template>
