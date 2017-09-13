@@ -9,5 +9,5 @@ export const routes = [
     {path:'/',redirect:'/home'},
     {path:'/home',component:home},
     {path:'/adopcion',component:adopcion},
-    {path:'*',component:notfound}
+    {path:'**',component:notfound}
 ]

@@ -9,7 +9,6 @@ import Vuetify from 'vuetify'
 Vue.use(VueRouter)
 Vue.use(Vuetify)
 const router = new VueRouter({
-  mode:'history',
   routes
 })
 
